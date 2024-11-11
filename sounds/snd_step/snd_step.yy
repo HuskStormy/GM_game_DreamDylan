@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_step",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.265669,
+  "name":"snd_step",
+  "parent":{
+    "name":"Proyecto_DreamDylan",
+    "path":"Proyecto_DreamDylan.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":48000,
+  "soundFile":"snd_step.wav",
+  "type":0,
+  "volume":0.58,
+}

@@ -1,0 +1,4 @@
+enfocar = false;
+
+
+afuera = false;

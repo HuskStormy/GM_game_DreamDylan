@@ -1,0 +1,1 @@
+timer_wait = timer_create(30);

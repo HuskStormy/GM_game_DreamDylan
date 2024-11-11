@@ -1,0 +1,17 @@
+ID,FUNCION,CHARATER,ESPANOL,ENGLISH,,,,ID_DIALOGO,INICIO,comentario
+,Start:False,,,,,,,2,2,dlg de prueba para iniciar
+,CamCortina:True:100,,,,,,,,,
+,Delay:90,,,,,,,,,
+,DialgShow:True,,,,,,,,,
+,Delay:180,NULL,Donde estoy?,,,,,,,
+,Delay:90,,,,,,,,,
+,Delay:180,NULL,Que es esto?,,,,,,,
+,DialgShow:False,,,,,,,,,
+,Delay:60,,,,,,,,,
+,CamCortina:False:1,,,,,,,,,
+,Delay:180,,,,,,,,,
+,DialgShow:True,,,,,,,,,
+,Delay:180,???,…,,,,,,,
+,DialgShow:False,,,,,,,,,
+,Delay:60,,,,,,,,,
+,Final:,,,,,,,,,

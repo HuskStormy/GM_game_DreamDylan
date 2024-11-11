@@ -1,0 +1,1 @@
+//draw_text(0,32,move_knocked)

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_FunctionTimer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_FunctionTimer",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/assets/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

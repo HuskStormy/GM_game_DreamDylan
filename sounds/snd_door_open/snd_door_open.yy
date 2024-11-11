@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_door_open",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.742857,
+  "name":"snd_door_open",
+  "parent":{
+    "name":"Proyecto_DreamDylan",
+    "path":"Proyecto_DreamDylan.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_door_open.mp3",
+  "type":0,
+  "volume":1.0,
+}

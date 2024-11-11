@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shd_sombra_Entity",
+  "name":"shd_sombra_Entity",
+  "parent":{
+    "name":"Shaders",
+    "path":"folders/assets/Shaders.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

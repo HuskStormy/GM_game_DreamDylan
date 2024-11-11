@@ -1,0 +1,32 @@
+Start	:	//INICIO DEL EVENTO
+	:TypeDialog	//MOSTRAR EL CUADRO DE DIALOGO{NONE, DIALOGPERSON, DIALOGNONE}{DEFAULT = DIALOGNONE}
+	
+Dialog	:	//MOSTRAR EL CUADRO DE DIALOGO
+	:TypeDialog	//MOSTRAR EL CUADRO DE DIALOGO{NONE, DIALOGPERSON, DIALOGNONE}
+
+row		:	//referencia a una fila
+coment	:
+	:id			//id{FILA} para dirigirse 
+
+Final	:	//final del evento
+
+Delay	:	//tiempo de espera
+	:time		//tiempo en frames "60 = 1s"
+	
+Funct	:	//llamado del una funcion
+	:function	//referecia a una funcion
+	
+Prgunta	:	//inicio de una pregunda
+	:id1		//id{FILA} del "Rspta" que se quiere mostrar
+	:id2		//id{FILA} del "Rspta" que se quiere mostrar
+	
+Rspta	:	//texto de la pregunta
+	:id1		//id{FILA} donde quiere redirigirse si es seleccionado
+	
+DialgShow:
+
+
+Text:
+TextDelay:
+
+CamCortina:

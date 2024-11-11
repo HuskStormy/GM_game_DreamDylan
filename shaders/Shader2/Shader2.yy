@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"Shader2",
+  "name":"Shader2",
+  "parent":{
+    "name":"Proyecto_DreamDylan",
+    "path":"Proyecto_DreamDylan.yyp",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

@@ -1,0 +1,1 @@
+draw_text(x,y,timer_wait[0])
